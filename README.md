@@ -1,1 +1,1 @@
-Meu nome é Thiago, sou estudante de CC, e programo em C.
+Estudante de Ciência da computação, programo em C, Java e Python, procuro desafios.
